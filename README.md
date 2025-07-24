@@ -1,22 +1,9 @@
-## Hi there 👋
-<div align="center">
-  <a href="https://github.com/itsjust-isela">
-    
-  </a>
-  <h1>Welcome to Isela's page!</h1>
-</div>
+# Welcome to Isela's Page!
+I am passionate about computers, their development and everything in between. I enjoy how complex it is and how it is ever evolving. I can't wait to see what the future brings and how we can improve our world utilizing it.
 
-<!--
-**itsjust-isela/itsjust-isela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* I'm currently working towards getting my degree in Information Technology Management with Specialization in Cybersecurity and a minor in Digital Forensics and Incident Response
+* I am currently working towards getting my CCNA certification!
+* I've completed almost a years worth of IT internship/job experience
+* **My dream is to do something related to IT infrastructure & networking**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
