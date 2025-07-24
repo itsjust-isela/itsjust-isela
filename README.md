@@ -1,4 +1,10 @@
 ## Hi there 👋
+<div align="center">
+  <a href="https://github.com/itsjust-isela">
+    ##add profile picture here using this line of code: img src="https://github.com/your-username/your-username/assets/your-profile-picture.png" width="150" height="150" alt="Your Name's Profile Picture" style="border-radius: 50%;"
+  </a>
+  <h1>Welcome to Isela's page!</h1>
+</div>
 
 <!--
 **itsjust-isela/itsjust-isela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
